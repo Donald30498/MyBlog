@@ -392,7 +392,7 @@ uglyURLs = false
     displayPostsCount = true
 
     # 設定一個非負數來限制每一分類下展示的文章數
-    limitPostsLimit = -1
+    limitPostsLimit = 3
 
 
     ######################################
