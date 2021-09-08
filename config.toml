@@ -1252,7 +1252,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交連結
-    enableSocials = true
+    enableSocials = false
     # 說明：見 data/Socials.toml
 
 
