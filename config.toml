@@ -104,7 +104,7 @@ uglyURLs = false
     # 頭像
     avatar = "/icons/apple-touch-icon.png"
     # 網站（預設值：baseURL）
-    website = "https://io-oi.me/"
+    website = "https://donald30498.github.io/MyBlog/"
     # 推特
     twitter = "loseritersenior"
 
