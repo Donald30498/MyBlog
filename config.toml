@@ -431,7 +431,7 @@ uglyURLs = false
     groupByMonth = true
 
     # 是否開啟十二生肖
-    chineseZodiac = true
+    chineseZodiac = false
 
     # 是否翻譯年份（僅對年份標題有效）
     i18nYear = true
@@ -452,7 +452,7 @@ uglyURLs = false
     displayTaxonomyTermCount = true
 
     # 設定一個非負數來限制每一類別項下展示的文章數
-    limitEntriesLimit = -1
+    limitEntriesLimit = 3
 
 
     ######################################
