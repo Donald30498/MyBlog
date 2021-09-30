@@ -15,6 +15,10 @@ categories:
 
 無情的APEX機器人(誒配廢人)
 
+# 黑歷史
+```
+不要露頭!!!
+```
 # 社群連結
 
 Youtube : https://www.youtube.com/channel/UCttLL51poPUG5KOvk2pFOHQ
