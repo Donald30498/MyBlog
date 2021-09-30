@@ -5,7 +5,9 @@ draft: false
 categories:
     - Vtubers
 ---
-<img src="Images/帥氣的眠眠-1.png">
+.photo{
+    background-image: url('Images/帥氣的眠眠-1.png');
+}
 Youtube Channel : https://www.youtube.com/channel/UCttLL51poPUG5KOvk2pFOHQ
 
 Twitter : https://twitter.com/virtualfluorite?s=20
