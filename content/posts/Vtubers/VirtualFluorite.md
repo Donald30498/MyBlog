@@ -5,7 +5,7 @@ draft: false
 categories:
     - Vtubers
 ---
-![Alt text](/Images/Vtubers/帥氣的眠眠-1.png)
+![Alt text](/Images/Vtubers/OIP.jpg)
 Youtube Channel : https://www.youtube.com/channel/UCttLL51poPUG5KOvk2pFOHQ
 
 Twitter : https://twitter.com/virtualfluorite?s=20
