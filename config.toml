@@ -798,7 +798,7 @@ uglyURLs = false
     # 文章目錄
 
     # 是否開啟（全域性設定）
-    enableTOC = false
+    enableTOC = true
     # 說明：文章的 Front Matter 中的 `toc`
     #      的優先順序高於此處
 
