@@ -747,17 +747,17 @@ uglyURLs = false
     # 注意：請遵循格式 https://gohugo.io/functions/format/
 
     # 是否顯示釋出時間
-    displayPublishedDate = true
+    displayPublishedDate = false
     # 釋出時間的圖示
     publishedDateIcon = "calendar-alt"
 
     # 是否顯示修改時間
-    displayModifiedDate = true
+    displayModifiedDate = false
     # 修改時間的圖示
     modifiedDateIcon = "calendar-check"
 
     # 是否顯示過期時間
-    displayExpiredDate = true
+    displayExpiredDate = false
     # 過期時間的圖示
     expiredDateIcon = "calendar-times"
 
