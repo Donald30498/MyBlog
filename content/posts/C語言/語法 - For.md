@@ -1,7 +1,7 @@
 ---
 title: "語法 - For"
-date: 2021-10-01T15:47:23+08:00
-draft: true
+date: 2021-10-01T15:00:00+08:00
+draft: false
 ---
 # for
 
