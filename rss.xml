@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>局長</title><link>https://donald30498.github.io/MyBlog/</link><description>MemE 是一個強大且可高度定製的 GoHugo 部落格主題，專為個人部落格設計。</description><generator>Hugo 0.88.1 https://gohugo.io/</generator><language>zh-TW</language><managingEditor>donald30498@outlook.com (局長)</managingEditor><webMaster>donald30498@outlook.com (局長)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Fri, 01 Oct 2021 07:10:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://donald30498.github.io/MyBlog/rss.xml"/><item><title>波米塔塔 - Pomitata</title><link>https://donald30498.github.io/MyBlog/posts/vtubers/pomitata/</link><guid isPermaLink="true">https://donald30498.github.io/MyBlog/posts/vtubers/pomitata/</guid><pubDate>Fri, 01 Oct 2021 14:51:02 +0800</pubDate><author>donald30498@outlook.com (局長)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="介紹">介紹&lt;/h1>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>局長</title><link>https://donald30498.github.io/MyBlog/</link><description>MemE 是一個強大且可高度定製的 GoHugo 部落格主題，專為個人部落格設計。</description><generator>Hugo 0.88.1 https://gohugo.io/</generator><language>zh-TW</language><managingEditor>donald30498@outlook.com (局長)</managingEditor><webMaster>donald30498@outlook.com (局長)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Fri, 01 Oct 2021 08:12:08 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://donald30498.github.io/MyBlog/rss.xml"/><item><title>簡介</title><link>https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E7%B0%A1%E4%BB%8B/</link><guid isPermaLink="true">https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E7%B0%A1%E4%BB%8B/</guid><pubDate>Fri, 01 Oct 2021 15:02:00 +0800</pubDate><author>donald30498@outlook.com (局長)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h2 id="優點">優點&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>易於學習&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>程式效率高&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>可處理底層活動&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>可在多平台上編譯&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="ide">IDE&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Dev-C++&lt;/p>
+&lt;p>下載連結 : &lt;a href="https://sourceforge.net/projects/orwelldevcpp/">https://sourceforge.net/projects/orwelldevcpp/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Notepad++&lt;/p>
+&lt;p>下載連結 : &lt;a href="https://notepad-plus-plus.org/downloads/">https://notepad-plus-plus.org/downloads/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="最重要的是逢甲電機系必修">最重要的是，逢甲電機系必修!!&lt;/h2></description></item><item><title>結構</title><link>https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E7%B5%90%E6%A7%8B/</link><guid isPermaLink="true">https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E7%B5%90%E6%A7%8B/</guid><pubDate>Fri, 01 Oct 2021 15:01:00 +0800</pubDate><author>donald30498@outlook.com (局長)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>這邊先放個簡單的C程式，功能就是列印 Hello Word! 這個字串&lt;/p>
+&lt;pre tabindex="0">&lt;code>#include &amp;lt;stdio.h&amp;gt;
+int main () {
+printf(&amp;quot;Hello Word!&amp;quot;);
+}
+&lt;/code>&lt;/pre>&lt;p>其中，開頭的 #include 就是前處理器(preprocessor)，代表編譯前應須先包含 stdio.h 這個函式集。&lt;/p>
+&lt;p>下一行的 int main 是主函式，是程式的主體，也是程式開始執行的地方， main 後面的 () 是 prototype ， 主程式一般都是省略不需要寫，後面會提到這裡先不做贅述。&lt;/p>
+&lt;p>printf(); 是C的一個函式，功能是印出&amp;quot;&amp;quot;內的文字。&lt;/p>
+&lt;h2 id="切記每個指令句尾都要加上分號-----">切記每個指令句尾都要加上分號 --&amp;gt;( ; )&lt;/h2>
+&lt;p>因為在C中，分號是語句結束符號，加上分號代表一個指令或是邏輯的結束。&lt;/p></description></item><item><title>語法 - For</title><link>https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E8%AA%9E%E6%B3%95-for/</link><guid isPermaLink="true">https://donald30498.github.io/MyBlog/posts/c%E8%AA%9E%E8%A8%80/%E8%AA%9E%E6%B3%95-for/</guid><pubDate>Fri, 01 Oct 2021 15:00:00 +0800</pubDate><author>donald30498@outlook.com (局長)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="for">for&lt;/h1>
+&lt;pre tabindex="0">&lt;code>int main () {
+int i,j=0;
+for (i = 0; i&amp;lt;10; i++){
+j += 2;
+}
+}
+&lt;/code>&lt;/pre>&lt;p>第一行的 int i , j = 0; 是宣告名為 i 、 j 的兩個實數(int)，而 j 設初值為0。&lt;/p>
+&lt;p>接下來for迴圈中 :&lt;/p>
+&lt;p>i = 0 [ i的初值被設為零 ] ;&lt;/p>
+&lt;p>i &amp;lt; 10 [ 若 i 小於10條件成立，程式則執行 ] ;&lt;/p>
+&lt;p>i++ [ 程式執行後 ， i + 1 ]&lt;/p>
+&lt;p>而 j += 1 這個程式將會重複執行10次:&lt;/p>
+&lt;h2 id="第一次">第一次:&lt;/h2>
+&lt;p>i = 0 ,&lt;/p>
+&lt;p>i &amp;lt; 10 (條件成立) ,&lt;/p>
+&lt;p>j += 2 (j = 2) ,&lt;/p>
+&lt;p>i += 1 (i = 1)&lt;/p>
+&lt;h2 id="第二次">第二次:&lt;/h2>
+&lt;p>i = 1 ,&lt;/p>
+&lt;p>i &amp;lt; 10 (條件成立) ,&lt;/p>
+&lt;p>j += 2 (j = 4) ,&lt;/p>
+&lt;p>i += 1 (i = 2)&lt;/p>
+&lt;p>......&lt;/p>
+&lt;h2 id="第十次">第十次&lt;/h2>
+&lt;p>i = 9 ,&lt;/p>
+&lt;p>i &amp;lt; 10 (條件成立) ,&lt;/p>
+&lt;p>j += 2 (j = 20) ,&lt;/p>
+&lt;p>i += 1 (i = 10)&lt;/p>
+&lt;h2 id="第十一次">第十一次&lt;/h2>
+&lt;p>i = 10 ,&lt;/p>
+&lt;p>i &amp;lt; 10 (條件不成立) ,&lt;/p>
+&lt;p>for迴圈結束&lt;/p></description></item><item><title>波米塔塔 - Pomitata</title><link>https://donald30498.github.io/MyBlog/posts/vtubers/pomitata/</link><guid isPermaLink="true">https://donald30498.github.io/MyBlog/posts/vtubers/pomitata/</guid><pubDate>Fri, 01 Oct 2021 14:51:02 +0800</pubDate><author>donald30498@outlook.com (局長)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="介紹">介紹&lt;/h1>
 &lt;p>心結系Vtuber&lt;/p>
 &lt;p>喝醉酒會變身成搭搭&lt;/p>
 &lt;p>ㄎㄧㄤˉ掉了就甩鍋給搭搭就好了&lt;/p>
