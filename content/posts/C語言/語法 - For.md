@@ -2,6 +2,8 @@
 title: "語法 - For"
 date: 2021-10-01T15:00:00+08:00
 draft: false
+categories:
+    - C語言
 ---
 # for
 
