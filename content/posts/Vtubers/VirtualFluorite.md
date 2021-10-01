@@ -4,6 +4,8 @@ date: 2021-09-30T18:00:34+08:00
 draft: false
 categories:
     - Vtubers
+tags:
+    - jump2020
 ---
 # 介紹
 
