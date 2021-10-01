@@ -3,7 +3,7 @@ title: "深空眠 - Virtual Fluorite"
 date: 2021-09-30T18:00:34+08:00
 draft: false
 categories:
-    - Vtubers
+    - 我是臭DD
 tags:
     - jump2020
 ---
@@ -15,12 +15,16 @@ tags:
 
 嘴ㄆㄧㄚˊ王者
 
+暴死黑魂
+
+會發出遜砲的聲音(超可愛的w)
+
 無情的APEX機器人(誒配廢人)
 
+粉絲名 ： 棉花
+
 # 黑歷史
-```
-不要露頭!!!
-```
+- 不要露頭!!!
 # 社群連結
 
 Youtube : https://www.youtube.com/channel/UCttLL51poPUG5KOvk2pFOHQ
